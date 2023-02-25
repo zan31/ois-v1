@@ -2,7 +2,6 @@ import java.util.*;
 
 class Gravitacija {
     public static void main(String args[]) {
-
         Scanner sc = new Scanner(System.in);
 
         final double C = 6.674e-11;
