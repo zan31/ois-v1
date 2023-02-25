@@ -13,7 +13,7 @@ class Gravitacija {
 
         double a = (C * M) / ((r + v) * (r + v));
 
-        System.out.println(x + ", " + a);
+        System.out.println(v + ", " + a);
 
     }
 }
