@@ -2,7 +2,6 @@ import java.util.*;
 
 class Gravitacija {
     public static void main(String args[]) {
-        System.out.println("OIS je zakonis");
 
         Scanner sc = new Scanner(System.in);
 
@@ -13,7 +12,7 @@ class Gravitacija {
 
         double a = (C * M) / ((r + v) * (r + v));
 
-        System.out.println(x + ", " + a);
+        System.out.println(a);
 
     }
 }
