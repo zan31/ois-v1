@@ -5,6 +5,8 @@ class Gravitacija {
         /*
          * Scanner sc = new Scanner(System.in);
          * 
+         * int x = sc.nextInt();
+         * 
          * final double C = 6.674e-11;
          * final double M = 5.972e24;
          * final double r = 6.371e6;
@@ -13,6 +15,8 @@ class Gravitacija {
          * double a = (C * M) / ((r + v) * (r + v));
          */
 
-        System.out.println("OIS je zakonis");
+        System.out.println(x + ", " + a);
+
+        System.out.println("OIS je zakon");
     }
 }
